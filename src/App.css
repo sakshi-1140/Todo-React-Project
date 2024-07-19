@@ -1,0 +1,16 @@
+
+input{
+    width:100%;
+    /* background-color: red */
+}
+
+
+.kg-button{
+    min-width:80px;
+    /* background-color: black; */
+
+}
+.kg-row{
+    margin:10px 5px;
+    /* background-color: green; */
+}
